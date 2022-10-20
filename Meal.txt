@@ -1,0 +1,9 @@
+mealType
+mealName
+size
+price
+feed
+subtotal
+tax
+tip
+grandTotal
